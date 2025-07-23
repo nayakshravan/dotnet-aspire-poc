@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "drugs.api.Controllers.DrugsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Drugs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "drugs.api.Controllers.DrugsController",
+    "Method": "Create",
+    "RelativePath": "api/Drugs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "drug",
+        "Type": "drugs.api.Models.Drug",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "drugs.api.Controllers.DrugsController",
+    "Method": "GetById",
+    "RelativePath": "api/Drugs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "drugs.api.Controllers.DrugsController",
+    "Method": "Update",
+    "RelativePath": "api/Drugs/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "drug",
+        "Type": "drugs.api.Models.Drug",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "drugs.api.Controllers.DrugsController",
+    "Method": "Delete",
+    "RelativePath": "api/Drugs/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
