@@ -9,6 +9,7 @@
       "Inventory.AppHost/1.0.0": {
         "dependencies": {
           "Aspire.Dashboard.Sdk.win-x64": "9.3.1",
+          "Aspire.Hosting": "9.3.1",
           "Aspire.Hosting.AppHost": "9.3.1",
           "Aspire.Hosting.NodeJs": "9.3.1",
           "Aspire.Hosting.Orchestration.win-x64": "9.3.1"

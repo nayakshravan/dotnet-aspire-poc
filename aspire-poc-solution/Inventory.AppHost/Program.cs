@@ -4,12 +4,15 @@ using System.IO;
 
 var builder = DistributedApplication.CreateBuilder(args);
 
-var hospitalApi = builder.AddProject<hospital_api>("hospital-api");
-var drugsApi = builder.AddProject<drugs_api>("drugs-api");
+var hospitalApi = builder.AddExecutable("hospital-api", "powershell", "../hospital.api")
+    .WithArgs("-Command", "dotnet run")
+    .WithUrl("http://localhost:5164");
 
-var uiFrontend = builder.AddNpmApp("ui-frontend","../ui-frontend" ,"dev")
-    .WithUrl("http://localhost:3000")
-    .WithReference(hospitalApi)
-    .WithReference(drugsApi);
+var drugsApi = builder.AddExecutable("drugs-api", "powershell", "../drugs.api")
+    .WithArgs("-Command", "dotnet run")
+    .WithUrl("http://localhost:5203");
+
+var uiFrontend = builder.AddNpmApp("ui-frontend", "../ui-frontend", "dev")
+    .WithUrl("http://localhost:3000");
 
 builder.Build().Run();

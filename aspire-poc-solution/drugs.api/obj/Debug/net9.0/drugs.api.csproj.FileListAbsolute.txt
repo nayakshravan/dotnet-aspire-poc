@@ -35,10 +35,10 @@ C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj\Debug\net9.0\staticwebassets.development.json
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj\Debug\net9.0\drugs.api.csproj.Up2Date
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj\Debug\net9.0\drugs.api.dll
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj\Debug\net9.0\refint\drugs.api.dll
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj\Debug\net9.0\drugs.api.pdb
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj\Debug\net9.0\drugs.api.genruntimeconfig.cache
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj\Debug\net9.0\ref\drugs.api.dll
+C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\drugs.api\obj\Debug\net9.0\drugs.api.sourcelink.json

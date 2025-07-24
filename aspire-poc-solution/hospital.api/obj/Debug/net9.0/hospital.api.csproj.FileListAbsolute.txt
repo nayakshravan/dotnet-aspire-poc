@@ -35,10 +35,10 @@ C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\obj\Debug\net9.0\staticwebassets.development.json
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\obj\Debug\net9.0\hospital.228BB977.Up2Date
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\obj\Debug\net9.0\hospital.api.dll
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\obj\Debug\net9.0\refint\hospital.api.dll
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\obj\Debug\net9.0\hospital.api.pdb
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\obj\Debug\net9.0\hospital.api.genruntimeconfig.cache
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\obj\Debug\net9.0\ref\hospital.api.dll
+C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\hospital.api\obj\Debug\net9.0\hospital.api.sourcelink.json

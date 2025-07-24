@@ -3,8 +3,6 @@ C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.App
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\obj\Debug\net9.0\Inventory.AppHost.AssemblyInfoInputs.cache
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\obj\Debug\net9.0\Inventory.AppHost.AssemblyInfo.cs
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\obj\Debug\net9.0\Inventory.AppHost.csproj.CoreCompileInputs.cache
-C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\obj\Debug\net9.0\Aspire\references\hospital_api.ProjectMetadata.g.cs
-C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\obj\Debug\net9.0\Aspire\references\drugs_api.ProjectMetadata.g.cs
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\obj\Debug\net9.0\Aspire\references\_AppHost.ProjectMetadata.g.cs
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\bin\Debug\net9.0\Inventory.AppHost.exe
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\bin\Debug\net9.0\Inventory.AppHost.deps.json
@@ -130,3 +128,5 @@ C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.App
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
 C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\obj\Debug\net9.0\Inventory.AppHost.sourcelink.json
+C:\shravan\prog\my git codes\dotnet-aspire-poc\aspire-poc-solution\Inventory.AppHost\obj\Debug\net9.0\Aspire\references\.ProjectMetadata.g.cs
